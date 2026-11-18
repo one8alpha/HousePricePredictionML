@@ -1,0 +1,6 @@
+{
+  "name": "House Price Prediction ML Pipeline",
+  "description": "Complete end-to-end Machine Learning regression project for Roll No. 1 (House Price Prediction), covering problem definition, data preprocessing, EDA, Linear Regression, Decision Tree, Random Forest, model improvement experiments, live prediction UI, and deployment repository artifacts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
